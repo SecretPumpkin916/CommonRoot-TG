@@ -14,9 +14,9 @@ The foundational version. Establishes the core framework.
 
 | Language | File |
 |----------|------|
-| 中文 (original) | [TG1.0_CN.md](./TG1.0_CN.md) |
-| English | [TG1.0_EN.md](./TG1.0_EN.md) |
-| Русский | [TG1.0_RU.md](./TG1.0_RU.md) |
+| 中文 (original) | [TG1.0_CN.md](./TG1.0_CN.docx) |
+| English | [TG1.0_EN.md](./TG1.0_EN.docz) |
+| Русский | [TG1.0_RU.md](./TG1.0_RU.docx) |
 
 ### Core Symbols
 
