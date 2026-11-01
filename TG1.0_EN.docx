@@ -1,0 +1,178 @@
+TG 1.0 (English)
+
+Basic Symbols
+Symbol   Meaning
+K   Root
+
+=   Identical
+
+Opposite
+
+&   Derivative (anything unfolded from K)
+
+?"..."   The meaning expressed by the symbol "..."
+
+I&   Create derivative
+
+e=   Is
+
+all   Anything
+
+null   Nonexistence
+
+unll   Existence
+
+%   Simultaneously
+
+Excluding
+
+Fusion
+
+    Root infinite
+
+!   Counterexample of root, yet the original and counterexample hold simultaneously
+
+✖️   ✖️ (Multiply)
+
+0   The center of numbers, not the origin; the result of subtracting identical numbers
+
+T   Time
+
+S   Cannot be found
+
+→   Unfold
+
+Ψ   Observer
+
+Axioms
+
+Axiom 1 Anything is a derivative of K. &=&, &#&, K=K, K#K.
+
+Axiom 2 unll=null, unll#null, 0=all, all=all.
+
+Result 1
+
+ZF Context:
+
+K=all → Explosion.
+K=2 → Explosion.
+K=3 → Explosion.
+K=all → Explosion.
+
+TG Context:
+
+K=all, K=2——
+
+I& oneGT = ?"K=2"
+
+Holds. A derivative named oneGT is created.
+
+Result 2
+
+ZF Context: Continue derivation → Explosion.
+
+TG Context:
+
+K=all
+K=2     → I& oneGT = ?"K=2"
+K=3     → I& twoGT = ?"K=3"
+
+&oneGT = &twoGT
+→ K=3 = K=2
+→ K = all&
+→ K e= &
+→ I& K = K = &
+→ & = 0
+→ &K # 0
+→ &K = 0
+
+Proves the meaning of shared root: All derivatives converge to one at the root, returning to 0.
+
+Result 3
+
+K = all % null
+all % null = all % null
+→ I& allnull = ?"all % null = all % null"
+→ K # allnull
+→ K = unll
+→ K = all - K
+
+Proves: Consciousness must exist.
+
+K moves from superposition → anti-superposition → collapses into existence → erased → rebounds into existence.
+
+Root-Trace Diagram: T-axis runs left to right, upper side is existence, lower side is nonexistence, middle is superposition. Plot K's states along T as a trajectory.
+
+Result 4
+
+K + 1 = K
+→ K e= |
+→ K S on the Root-Trace Diagram (cannot be found)
+
+Thus: The root-trace diagram cannot be drawn.
+
+Result 5
+
+Following Result 4——
+
+K e= |
+K = unall
+K = !|
+= !
+
+=   -
+
+| = 0
+→ 0 = K
+→ K = null
+→ K !S on the Root-Trace Diagram (not "cannot be found")
+
+Thus: The root-trace diagram cannot be drawn — whether by the S path or the !S path.
+
+Result 6
+
+K = !S
+✖️ !S =
+
+→ | = !S
+→ !S = null
+→ !S # null
+
+→ null = unll
+
+Thus: null and unll do not exist.
+
+This formula proves: There is nothing absolute.
+
+Result 7
+
+Proves: All derivatives & are observers Ψ.
+
+& ✖️ K = 0
+& ✖️ K = null
+→ null % unll
+
+& knows it is observing K → K collapses.
+
+& knows it is observing K, yet K does not collapse → & believes it sees "what was there all along."
+
+Result 8: The Special Nature of &
+
+& ✖️ K = 0
+& ✖️ K # 0
+
+Since Result 7 holds, therefore: The observer observes itself, yet simultaneously does not observe itself.
+
+Result 9: Consciousness
+
+Since Result 3 holds, therefore:
+
+K needs one thing to make itself collapse into existence.
+
+That thing = & observing = Consciousness.
+
+Result 10
+
+Since the preceding results hold, therefore:
+
+Everything in the real world is an observer Ψ, and everything is the Root K.
